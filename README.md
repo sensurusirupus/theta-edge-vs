@@ -99,7 +99,3 @@ Here is an example of a [drunken pirate describing your code](https://github.com
 Read our [contributing guide][contributing] to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes.
 
 ### [Good First Issues][good-first-issues]
-
-To help you get your feet wet and become familiar with our contribution process, we have a list of [good first issues][good-first-issues] that contains things with a relatively limited scope. This is a great place to get started!
-
-<!-- Links -->
