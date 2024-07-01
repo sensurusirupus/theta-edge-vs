@@ -93,9 +93,3 @@ Here is an example of a [drunken pirate describing your code](https://github.com
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## Running it locally & Contributing
-
-### [Contributing Guide][contributing]
-
-Read our [contributing guide][contributing] to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes.
-
-### [Good First Issues][good-first-issues]
