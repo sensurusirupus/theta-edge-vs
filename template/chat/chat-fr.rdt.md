@@ -6,40 +6,7 @@ This template lets you chat with Rubberduck in French.
 
 ### Configuration
 
-```json conversation-template
-{
-  "id": "chat-fr",
-  "engineVersion": 0,
-  "label": "Commencer une discussion",
-  "description": "Commencer une discussion avec Rubberduck.",
-  "header": {
-    "title": "Nouvelle discussion",
-    "useFirstMessageAsTitle": true,
-    "icon": {
-      "type": "codicon",
-      "value": "comment-discussion"
-    }
-  },
-  "variables": [
-    {
-      "name": "selectedText",
-      "time": "conversation-start",
-      "type": "selected-text"
-    },
-    {
-      "name": "lastMessage",
-      "time": "message",
-      "type": "message",
-      "property": "content",
-      "index": -1
-    }
-  ],
-  "response": {
-    "maxTokens": 1024,
-    "stop": ["Robot:", "Développeur:"]
-  }
-}
-```
+````
 
 ### Response Prompt
 
@@ -77,4 +44,4 @@ Inclus des snippets de code (en Markdown) et des exemples lorsque c’est approp
 
 ## Réponse
 Robot:
-```
+````
