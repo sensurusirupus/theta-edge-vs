@@ -32,6 +32,5 @@
   "workspaces": [
     "app/*",
     "lib/*"
-  ],
-  "main": "index.js"
+  ]
 }
