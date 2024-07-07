@@ -35,7 +35,7 @@ export const ChatPanelView: React.FC<{
           Enter your OpenAI API key
         </button>
         <p>
-          Rubberduck uses the OpenAI API and requires an API key to work. You
+          ThetaEdgeX uses the OpenAI API and requires an API key to work. You
           can get an API key from{" "}
           <a href="https://platform.openai.com/account/api-keys">
             platform.openai.com/account/api-keys
@@ -88,12 +88,16 @@ export const ChatPanelView: React.FC<{
                 data: { id: conversation.id },
               });
             }}
-            onClickInsertPrompt={panelState.surfacePromptForOpenAIPlus ? () => {
-              sendMessage({
-                type: "insertPromptIntoEditor",
-                data: { id: conversation.id },
-              })
-            } : undefined}
+            onClickInsertPrompt={
+              panelState.surfacePromptForOpenAIPlus
+                ? () => {
+                    sendMessage({
+                      type: "insertPromptIntoEditor",
+                      data: { id: conversation.id },
+                    });
+                  }
+                : undefined
+            }
           />
         ) : (
           <CollapsedConversationView
