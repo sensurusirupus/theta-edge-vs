@@ -139,63 +139,63 @@
       }
     ],
     "configuration": {
-      "title": "Rubberduck",
+      "title": "Theta Edge X",
       "properties": {
-        "rubberduck.syntaxHighlighting.useVisualStudioCodeColors": {
+        "thetaedgex.syntaxHighlighting.useVisualStudioCodeColors": {
           "type": "boolean",
           "default": false,
           "markdownDescription": "Use the Visual Studio Code Theme colors for syntax highlighting in the diff viewer. Might not work with all themes. Only applies to newly opened diffs.",
           "scope": "application"
         },
-        "rubberduck.indexRepository.enabled": {
+        "thetaedgex.indexRepository.enabled": {
           "type": "boolean",
           "default": false,
           "markdownDescription": "Enable the command to index your repository and give more context to the AI model. Experimental.",
           "scope": "application"
         },
-        "rubberduck.action.editCode.showInEditorContextMenu": {
+        "thetaedgex.action.editCode.showInEditorContextMenu": {
           "type": "boolean",
           "default": true,
           "markdownDescription": "Show this action in the editor context menu, when you right-click on the code.",
           "scope": "application"
         },
-        "rubberduck.action.startChat.showInEditorContextMenu": {
+        "thetaedgex.action.startChat.showInEditorContextMenu": {
           "type": "boolean",
           "default": true,
           "markdownDescription": "Show this action in the editor context menu, when you right-click on the code.",
           "scope": "application"
         },
-        "rubberduck.action.explainCode.showInEditorContextMenu": {
+        "thetaedgex.action.explainCode.showInEditorContextMenu": {
           "type": "boolean",
           "default": true,
           "markdownDescription": "Show this action in the editor context menu, when you right-click on the code.",
           "scope": "application"
         },
-        "rubberduck.action.findBugs.showInEditorContextMenu": {
+        "thetaedgex.action.findBugs.showInEditorContextMenu": {
           "type": "boolean",
           "default": true,
           "markdownDescription": "Show this action in the editor context menu, when you right-click on the code.",
           "scope": "application"
         },
-        "rubberduck.action.generateUnitTest.showInEditorContextMenu": {
+        "thetaedgex.action.generateUnitTest.showInEditorContextMenu": {
           "type": "boolean",
           "default": true,
           "markdownDescription": "Show this action in the editor context menu, when you right-click on the code.",
           "scope": "application"
         },
-        "rubberduck.action.diagnoseErrors.showInEditorContextMenu": {
+        "thetaedgex.action.diagnoseErrors.showInEditorContextMenu": {
           "type": "boolean",
           "default": true,
           "markdownDescription": "Show this action in the editor context menu, when you right-click on the code.",
           "scope": "application"
         },
-        "rubberduck.action.startCustomChat.showInEditorContextMenu": {
+        "thetaedgex.action.startCustomChat.showInEditorContextMenu": {
           "type": "boolean",
           "default": true,
           "markdownDescription": "Show this action in the editor context menu, when you right-click on the code.",
           "scope": "application"
         },
-        "rubberduck.logger.level": {
+        "thetaedgex.logger.level": {
           "type": "string",
           "default": "info",
           "enum": [
@@ -213,19 +213,19 @@
           "markdownDescription": "Specify the verbosity of logs that will appear in 'Rubberduck: Show Logs'.",
           "scope": "application"
         },
-        "rubberduck.openAI.surfacePromptForPlus": {
+        "thetaedgex.openAI.surfacePromptForPlus": {
           "type": "boolean",
           "default": false,
           "markdownDescription": "Enable UI to surface the prompt text to use with OpenAI plus web chat",
           "scope": "application"
         },
-        "rubberduck.openAI.baseUrl": {
+        "thetaedgex.openAI.baseUrl": {
           "type": "string",
           "default": "https://api.openai.com/v1/",
           "markdownDescription": "Specify the URL to the OpenAI API. If you are using a proxy, you can set it here.",
           "scope": "application"
         },
-        "rubberduck.model": {
+        "thetaedgex.model": {
           "type": "string",
           "default": "gpt-3.5-turbo-0125",
           "enum": [
