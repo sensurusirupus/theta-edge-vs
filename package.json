@@ -1,7 +1,10 @@
 {
-  "name": "thetaedgex-vscode-root",
+  "name": "thetaedgex",
   "version": "0.0.0",
   "license": "MIT",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
   "scripts": {
     "prepare": "husky install",
     "build-all": "pnpm nx run-many --target=build",
@@ -28,6 +31,10 @@
     "prettier": "2.8.3",
     "typescript": "4.9.4",
     "vitest": "0.28.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sensurusirupus/theta-edge-vs"
   },
   "workspaces": [
     "app/*",
