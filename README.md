@@ -1,5 +1,3 @@
-<!-- da7ho2x7xaz2oikee5xsrhidpzx4pc2ehx5ots6kwphmuohjwrya -->
-
 ![Rubberduck AI Chat](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/asset/rubberduck-header-2.gif)
 
 # Rubberduck: ChatGPT for Visual Studio Code

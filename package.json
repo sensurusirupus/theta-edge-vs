@@ -36,6 +36,33 @@
     "type": "git",
     "url": "https://github.com/sensurusirupus/theta-edge-vs"
   },
+  "publisher": "thetaedgex",
+  "icon": "resources/logo.png",
+  "contributes": {
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "thetaDevTool",
+          "title": "Theta Dev Tool",
+          "icon": "resources/logo.png"
+        }
+      ]
+    },
+    "views": {
+      "thetaDevTool": [
+        {
+          "id": "thetaDevToolView",
+          "name": "Theta Dev Tool"
+        }
+      ]
+    },
+    "commands": [
+      {
+        "command": "thetaDevTool.searchDocs",
+        "title": "Search Theta Docs"
+      }
+    ]
+  },
   "workspaces": [
     "app/*",
     "lib/*"
