@@ -2,7 +2,7 @@
   "publisher": "thetaedgex",
   "name": "thetaedgex",
   "version": "1.21.0",
-  "displayName": "ThetaEdgeX - ChatGPT for Visual Studio Code",
+  "displayName": "ThetaEdgeX - Theta AI Codding Assitance for Visual Studio Code",
   "description": "Generate code, edit code, explain code, generate tests, find bugs, diagnose errors, and even create your own conversation templates.",
   "keywords": [
     "ai",
