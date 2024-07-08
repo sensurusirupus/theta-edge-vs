@@ -11,7 +11,7 @@
 <!-- prettier-ignore-start -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 <!-- prettier-ignore-end -->
 
@@ -31,51 +31,35 @@ ThetaEdgeX requires an OpenAI API key. You can get an OpenAI API key from [platf
 
 Chat with ThetaEdgeX about your code and software development topics. ThetaEdgeX knows the editor selection at the time of conversation start.
 
-![Chat](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/app/vscode/asset/media/screenshot-start-chat.png)
-
 # Generate Code
 
 Instruct ThetaEdgeX to generate code for you.
-
-![Generate Code](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/app/vscode/asset/media/screenshot-generate-code.gif)
 
 ## Edit Code
 
 Change the selected code by instructing ThetaEdgeX to create an edit.
 
-![Edit Code](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/app/vscode/asset/media/screenshot-edit-code.gif)
-
 ### Explain Code
 
 Ask ThetaEdgeX to explain the selected code.
-
-![Explain Code](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/app/vscode/asset/media/screenshot-code-explanation.png)
 
 ### Generate Tests
 
 Generate test cases for the selected code.
 
-![Generate Tests](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/app/vscode/asset/media/screenshot-generate-test.gif)
-
 ## Find Bugs
 
 Find potential defects in your code.
 
-![Find Bugs](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/app/vscode/asset/media/screenshot-find-bugs.png)
-
 ### Diagnose Errors
 
 Let ThetaEdgeX identify error causes and suggest fixes to fix compiler and linter errors faster.
-
-![Diagnose Errors](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/app/vscode/asset/media/screenshot-diagnose-errors.gif)
 
 ### Custom Conversations
 
 You can define your own conversation templates. See the [ThetaEdgeX Template docs](https://github.com/rubberduck-ai/rubberduck-vscode/blob/main/doc/rubberduck-templates.md) for more information.
 
 Here is an example of a [drunken pirate describing your code](https://github.com/rubberduck-ai/rubberduck-vscode/blob/main/template/fun/drunken-pirate.rdt.md):
-
-![Describe code as a drunken pirate](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/app/vscode/asset/media/drunken-pirate.gif)
 
 ## Contributors
 
