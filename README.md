@@ -1,4 +1,4 @@
-![ThetaEdgeX AI Chat](https://raw.githubusercontent.com/rubberduck-ai/rubberduck-vscode/main/asset/rubberduck-header-2.gif)
+![ThetaEdgeX AI Chat](https://i.ibb.co/r5s67gR/drunken-pirate.png)
 
 # ThetaEdgeX: Theta AI Coding assistance for Visual Studio Code
 

@@ -1,12 +1,10 @@
 # Open Source Project
 
-Rubberduck for Visual Studio Code is an open source project.
+ThetaEdgeX for Visual Studio Code is an open source project.
 
-- [GitHub repository](https://github.com/rubberduck-ai/rubberduck-vscode)
+- [GitHub repository](https://github.com/thetaEdgeX-ai/thetaEdgeX-vscode)
 - [Discord](https://discord.gg/8KN2HmyZmn)
 
 ### Additional Extensions
 
-Additional functionality can be added to Rubberduck with the following extensions:
-
-- [Rubberduck React](https://marketplace.visualstudio.com/items?itemName=Rubberduck.rubberduck-react-vscode)
+Additional functionality can be added to ThetaEdgeX with the following extensions:

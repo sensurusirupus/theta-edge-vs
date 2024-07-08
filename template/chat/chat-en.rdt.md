@@ -11,7 +11,7 @@ This template lets you chat with Rubberduck in English.
   "id": "chat-en",
   "engineVersion": 0,
   "label": "Start chat",
-  "description": "Start a basic chat with Rubberduck.",
+  "description": "Start a basic chat with ThetaEdgeX.",
   "header": {
     "title": "New chat",
     "useFirstMessageAsTitle": true,
