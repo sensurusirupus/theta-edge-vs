@@ -32,9 +32,9 @@
     "node": ">=18",
     "vscode": "^1.72.0"
   },
-  "homepage": "https://github.com/rubberduck-ai/rubberduck-vscode",
-  "repository": "https://github.com/rubberduck-ai/rubberduck-vscode",
-  "bugs": "https://github.com/rubberduck-ai/rubberduck-vscode/issues",
+  "homepage": "https://github.com/sensurusirupus/theta-edge-vs",
+  "repository": "https://github.com/sensurusirupus/theta-edge-vs",
+  "bugs": "https://github.com/sensurusirupus/theta-edge-vs/issues",
   "extensionKind": [
     "workspace"
   ],
