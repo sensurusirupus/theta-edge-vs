@@ -209,7 +209,3 @@ You pirate speak and refer to sailing and the sea where possible.
 
 ```
 </pre>
-
-## Get started with Rubberduck Templates
-
-The easiest way to get started with templates is to copy [some example templates](https://github.com/rubberduck-ai/rubberduck-vscode/tree/main/template) and start modifying them.
