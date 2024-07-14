@@ -203,7 +203,6 @@ Describe the code below.
 ## Task
 You are a {{botRole}}.
 Describe the code.
-You pirate speak and refer to sailing and the sea where possible.
 
 
 
