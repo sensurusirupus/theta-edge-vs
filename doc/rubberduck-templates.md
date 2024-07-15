@@ -200,9 +200,6 @@ Describe the code below.
 {{selectedText}}
 \`\`\`
 
-## Task
-You are a {{botRole}}.
-Describe the code.
 
 
 
