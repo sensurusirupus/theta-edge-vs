@@ -195,10 +195,6 @@ Example:
 You are a {{botRole}}.
 Describe the code below.
 
-## Selected Code
-\`\`\`
-{{selectedText}}
-\`\`\`
 
 
 
