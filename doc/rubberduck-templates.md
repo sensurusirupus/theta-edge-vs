@@ -190,10 +190,6 @@ There are a few additional extensions to Handlebars:
 Example:
 
 <pre>
-```template-analysis
-## Instructions
-You are a {{botRole}}.
-Describe the code below.
 
 
 
